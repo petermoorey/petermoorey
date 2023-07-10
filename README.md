@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I manage a global team of Architects and Engineers who are responsible for the architecture and design of a large/complex global network, defining global IT standards, automation and tooling, and commercialising new network products/solutions.
+I manage a global team responsible for the architecture and design of a large/complex global network, defining global IT standards, automation and tooling, and commercialising new network products/solutions.
 
 My responsibilities include all aspects of IT service management, such people management, career planning, budgeting/finances, defining IT strategy and roadmaps.
 
