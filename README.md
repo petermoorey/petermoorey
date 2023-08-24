@@ -11,6 +11,7 @@ Some of my key achievements include:
 
 Outside of work I enjoy:
 - ☕️ Relaxation of making and drinking nice coffee
+- 🖊️ Writing technology [blog posts](https://petermoorey.github.io)
 - 🐕 [Walking](https://500px.com/photo/1043822168/winter-walk-in-aberdeenshire-by-peter-moorey) our dog in the beautfiul Scottish countryside
 - ✈️ Travelling with my wife, we've visited 30 states whilst living in the US
 - 📷 [Photography](https://500px.com/p/PeterMoorey?view=photos) using my Fuji X100F (travel), Canon 6D (landscape) and AE1 (film) cameras
