@@ -16,5 +16,5 @@ Outside of work I enjoy:
 - ✈️ Travelling with my wife, we've visited 30 states whilst living in the US
 - 📷 [Photography](https://500px.com/p/PeterMoorey?view=photos) using my Fuji X100F (travel), Canon 6D (landscape) and AE1 (film) cameras
 - 👨‍💻 Developing [API Mocha](https://apimocha.com) - a website for software developers
-- Developing [Network Performance Coach](https://networkperformancecoach.com) - a browser extension for developers to optimise web app network performance
+- 👨‍💻 Developing [Network Performance Coach](https://networkperformancecoach.com) - a browser extension for developers to optimise web app network performance
 
